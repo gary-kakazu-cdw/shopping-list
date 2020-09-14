@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="planned_task" label="Gary Planned Task" max_length="40" name="x_490488_shopping_gary_planned_task" sizeclass="1" type="collection"/>
+</database>
